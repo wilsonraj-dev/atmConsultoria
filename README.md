@@ -6,9 +6,9 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="home" height="470" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/930988758105489408/WhatsApp_Image_2022-01-12_at_9.56.38_PM.jpeg"/>
-  <img align="center" alt="Empresa" height="470" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/930987941684187176/WhatsApp_Image_2022-01-12_at_9.49.04_PM_3.jpeg"/><br>
+  <img align="center" alt="Empresa" height="470" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/930987941684187176/WhatsApp_Image_2022-01-12_at_9.49.04_PM_3.jpeg"/><br><br>
   <img align="center" alt="Servico" height="470" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/930987941944262737/WhatsApp_Image_2022-01-12_at_9.49.04_PM.jpeg"/>
-  <img align="center" alt="Cliente" height="470" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/930987941419970560/WhatsApp_Image_2022-01-12_at_9.49.04_PM_2.jpeg"/><br>
+  <img align="center" alt="Cliente" height="470" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/930987941419970560/WhatsApp_Image_2022-01-12_at_9.49.04_PM_2.jpeg"/><br><br>
   <img align="center" alt="Contato" height="470" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/930987941180882974/WhatsApp_Image_2022-01-12_at_9.49.04_PM_1.jpeg"/>
 </div>
 
