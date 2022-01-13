@@ -5,6 +5,7 @@ import 'home_page.dart';
 void main(){
   // ignore: prefer_const_constructors
   runApp(MaterialApp(
-    home: const Home()
+    home: const Home(),
+    debugShowCheckedModeBanner: false,
   ));
 }
